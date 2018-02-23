@@ -1,0 +1,148 @@
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\ApplicationInsights.config
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\csc.exe
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\csc.exe.config
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\csc.rsp
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\csi.exe
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\csi.rsp
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\System.AppContext.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\vbc.exe
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\vbc.exe.config
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\vbc.rsp
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\VBCSCompiler.exe
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Printype.dll.config
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Printype.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Printype.pdb
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Antlr3.Runtime.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.Web.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.ApplicationInsights.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Newtonsoft.Json.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Net.Http.Formatting.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Helpers.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Http.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Http.WebHost.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Mvc.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Optimization.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Razor.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.WebPages.Deployment.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.WebPages.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.WebPages.Razor.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\WebGrease.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Newtonsoft.Json.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Net.Http.Formatting.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Helpers.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Http.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Http.WebHost.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Mvc.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Optimization.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.Razor.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.WebPages.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.WebPages.Deployment.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\System.Web.WebPages.Razor.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Antlr3.Runtime.pdb
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.ApplicationInsights.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\bin\Microsoft.AI.Web.xml
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\obj\Debug\Printype.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\obj\Debug\Printype.dll
+c:\users\dylan\documents\visual studio 2017\Projects\Printype\Printype\obj\Debug\Printype.pdb
+D:\projects\Printype\Printype\bin\ApplicationInsights.config
+D:\projects\Printype\Printype\bin\roslyn\csc.exe
+D:\projects\Printype\Printype\bin\roslyn\csc.exe.config
+D:\projects\Printype\Printype\bin\roslyn\csc.rsp
+D:\projects\Printype\Printype\bin\roslyn\csi.exe
+D:\projects\Printype\Printype\bin\roslyn\csi.rsp
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projects\Printype\Printype\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects\Printype\Printype\bin\roslyn\System.AppContext.dll
+D:\projects\Printype\Printype\bin\roslyn\System.Collections.Immutable.dll
+D:\projects\Printype\Printype\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projects\Printype\Printype\bin\roslyn\System.IO.FileSystem.dll
+D:\projects\Printype\Printype\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projects\Printype\Printype\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects\Printype\Printype\bin\roslyn\vbc.exe
+D:\projects\Printype\Printype\bin\roslyn\vbc.exe.config
+D:\projects\Printype\Printype\bin\roslyn\vbc.rsp
+D:\projects\Printype\Printype\bin\roslyn\VBCSCompiler.exe
+D:\projects\Printype\Printype\bin\roslyn\VBCSCompiler.exe.config
+D:\projects\Printype\Printype\bin\Printype.dll.config
+D:\projects\Printype\Printype\bin\Printype.dll
+D:\projects\Printype\Printype\bin\Printype.pdb
+D:\projects\Printype\Printype\bin\Antlr3.Runtime.dll
+D:\projects\Printype\Printype\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projects\Printype\Printype\bin\Microsoft.AI.DependencyCollector.dll
+D:\projects\Printype\Printype\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projects\Printype\Printype\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projects\Printype\Printype\bin\Microsoft.AI.Web.dll
+D:\projects\Printype\Printype\bin\Microsoft.AI.WindowsServer.dll
+D:\projects\Printype\Printype\bin\Microsoft.ApplicationInsights.dll
+D:\projects\Printype\Printype\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\Printype\Printype\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\Printype\Printype\bin\Newtonsoft.Json.dll
+D:\projects\Printype\Printype\bin\QRCoder.dll
+D:\projects\Printype\Printype\bin\System.Net.Http.Formatting.dll
+D:\projects\Printype\Printype\bin\System.Web.Helpers.dll
+D:\projects\Printype\Printype\bin\System.Web.Http.dll
+D:\projects\Printype\Printype\bin\System.Web.Http.WebHost.dll
+D:\projects\Printype\Printype\bin\System.Web.Mvc.dll
+D:\projects\Printype\Printype\bin\System.Web.Optimization.dll
+D:\projects\Printype\Printype\bin\System.Web.Razor.dll
+D:\projects\Printype\Printype\bin\System.Web.WebPages.Deployment.dll
+D:\projects\Printype\Printype\bin\System.Web.WebPages.dll
+D:\projects\Printype\Printype\bin\System.Web.WebPages.Razor.dll
+D:\projects\Printype\Printype\bin\UnityEngine.dll
+D:\projects\Printype\Printype\bin\WebGrease.dll
+D:\projects\Printype\Printype\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\Printype\Printype\bin\Newtonsoft.Json.xml
+D:\projects\Printype\Printype\bin\System.Net.Http.Formatting.xml
+D:\projects\Printype\Printype\bin\System.Web.Helpers.xml
+D:\projects\Printype\Printype\bin\System.Web.Http.xml
+D:\projects\Printype\Printype\bin\System.Web.Http.WebHost.xml
+D:\projects\Printype\Printype\bin\System.Web.Mvc.xml
+D:\projects\Printype\Printype\bin\System.Web.Optimization.xml
+D:\projects\Printype\Printype\bin\System.Web.Razor.xml
+D:\projects\Printype\Printype\bin\System.Web.WebPages.xml
+D:\projects\Printype\Printype\bin\System.Web.WebPages.Deployment.xml
+D:\projects\Printype\Printype\bin\System.Web.WebPages.Razor.xml
+D:\projects\Printype\Printype\bin\Antlr3.Runtime.pdb
+D:\projects\Printype\Printype\bin\Microsoft.ApplicationInsights.xml
+D:\projects\Printype\Printype\bin\Microsoft.AI.DependencyCollector.xml
+D:\projects\Printype\Printype\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\projects\Printype\Printype\bin\Microsoft.AI.WindowsServer.xml
+D:\projects\Printype\Printype\bin\Microsoft.AI.Web.xml
+D:\projects\Printype\Printype\obj\Debug\Printype.csprojResolveAssemblyReference.cache
+D:\projects\Printype\Printype\obj\Debug\Printype.dll
+D:\projects\Printype\Printype\obj\Debug\Printype.pdb

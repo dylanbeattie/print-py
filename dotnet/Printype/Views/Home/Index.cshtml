@@ -1,0 +1,18 @@
+﻿@model Dictionary<string, Printype.Controllers.Attendee>
+<table>
+    <tr>
+        <th>Code</th>
+        <th>Attendee</th>
+        <th>Event</th>
+        <th>Printed?</th>
+    </tr>
+    @foreach(var code in Model.Keys) {
+        <tr>
+            <td>@code</td>
+            <td>@Model[code].Name</td>
+            <td>@Model[code].Event</td>
+            <td>@Model[code].PrintedAt</td>
+
+        </tr>
+    }
+</table>
